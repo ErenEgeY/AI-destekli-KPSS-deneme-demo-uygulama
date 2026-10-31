@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables - GİZLİ ANAHTARLAR - ASLA GITHUB'A GİTMESİN!
+.env
+.env.local
+.env.*.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# TypeScript cache
+tsconfig.tsbuildinfo
